@@ -13,7 +13,7 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 
 
-st.title('Song Recommender System')
+st.title('TUNE FINDER')
 
 def song_cover(song_name,artist_name):
    search_query= f"track:{song_name} artist:{artist_name}"
