@@ -13,4 +13,5 @@ This project involves creating a content-based song recommendation system using 
 - streamlit
 ## Screenshots
 ![music2](https://github.com/Shrutiii3/TuneFinder/assets/124484769/1e0e7e80-8f13-479d-951d-c2179dd6812a)
+
 ![img_music](https://github.com/Shrutiii3/TuneFinder/assets/124484769/2ad1a121-1c64-4aa2-95c8-479efd454079)
