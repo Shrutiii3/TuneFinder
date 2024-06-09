@@ -6,3 +6,8 @@ This project involves creating a content-based song recommendation system using 
 - Streamlit Web Interface: Provides a user-friendly web interface for inputting song details and viewing recommendations.
 - Real-Time Recommendations: Instantly displays recommended songs based on the provided input.
 - Data Handling: Efficient data processing and model optimization for high performance. 
+## Dependencies
+- pandas
+- numpy
+- scikit-learn
+- streamlit
